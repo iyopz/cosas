@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "asd",
+    "apellido": "asddsds",
+    "fechaNacimiento": "Dec 14, 2023, 12:00:00 AM",
+    "grado": "SEGUNDO",
+    "nivel": "PRIMARIA",
+    "seccion": "C",
+    "sexo": "FEMENINO"
+  },
+  {
+    "nombre": "ferfgertert",
+    "apellido": "rewtwertwe",
+    "fechaNacimiento": "Dec 14, 2023, 12:00:00 AM",
+    "grado": "SEXTO",
+    "nivel": "SUPERIOR",
+    "seccion": "A",
+    "sexo": "FEMENINO"
+  }
+]
